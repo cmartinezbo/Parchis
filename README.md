@@ -9,7 +9,9 @@ This is the classic game "Parchis" in command line interface, made with Python 3
   - The first player to get his/her piece into the goal wins.
 
  <h2> How to play 🔍</h2>
- 
+
+  - Choose between Developer Mode (you can put the values of the dices) or Quick Match (normal game)
+
   - Press ENTER to throw the dices (You have to be lucky xd)
 
   - Wait until you 
