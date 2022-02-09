@@ -14,7 +14,7 @@ This is the classic game "Parchis" in command line interface, made with Python 3
 
   - Board reference:
   
-    <img src="https://miracomosehace.com/wp-content/uploads/mch/parchis-juega-online_15721.jpg" alt="Girl in a jacket" width="150" height="150">
+    <img src="https://miracomosehace.com/wp-content/uploads/mch/parchis-juega-online_15721.jpg" alt="Girl in a jacket" width="1500" height="1500">
  
  <h2> Instructions ⚠</h2>
  
