@@ -12,6 +12,8 @@ This is the classic game "Parchis" in command line interface, made with Python 3
  
   - Press ENTER to throw the dices (You have to be lucky xd)
 
+  - Wait until you 
+
   - Board reference:
   
     <img src="https://miracomosehace.com/wp-content/uploads/mch/parchis-juega-online_15721.jpg" alt="Girl in a jacket" width="500" height="500">
@@ -28,7 +30,7 @@ This is the classic game "Parchis" in command line interface, made with Python 3
 
   - Download the game <a href="https://github.com/xtianmb/parchis/releases/download/v0.1/parques.py"> here</a>, run it in the terminal typing ``cd [folder where the game file is]``, 
 
-  - Then type ``py tictactoe.py`` and enjoy the game!
+  - Then type ``py parques.py`` and enjoy the game!
   
   - Follow me and stay tuned to future updates. 
 
