@@ -26,7 +26,7 @@ This is the classic game "Parchis" in command line interface, made with Python 3
   
       - Type ``pip install termcolor``
 
-  - Download the game <a href="https://github.com/xtianmb/Tic-Tac-Toe/releases/download/v0.1/tictactoe.py"> here</a>, run it in the terminal typing ``cd [folder where the game file is]``, 
+  - Download the game <a href="https://github.com/xtianmb/parchis/releases/download/v0.1/parques.py"> here</a>, run it in the terminal typing ``cd [folder where the game file is]``, 
 
   - Then type ``py tictactoe.py`` and enjoy the game!
   
