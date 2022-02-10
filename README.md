@@ -10,11 +10,11 @@ This is the classic game "Parchis" in command line interface, made with Python 3
 
  <h2> How to play 🔍</h2>
 
-  - Choose between Developer Mode (you can put the values of the dices) or Quick Match (normal game)
+  - Choose between Developer Mode (you can put the values of the dices) or Quick Match (normal game).
 
-  - Press ENTER to throw the dices (You have to be lucky xd)
+  - Press ENTER to throw the dices (You have to be lucky xd).
 
-  - Wait until you 
+  - Wait until you win.
 
   - Board reference:
   
@@ -32,7 +32,7 @@ This is the classic game "Parchis" in command line interface, made with Python 3
 
   - Download the game <a href="https://github.com/xtianmb/parchis/releases/download/v0.1/parques.py"> here</a>, run it in the terminal typing ``cd [folder where the game file is]``, 
 
-  - Then type ``py parques.py`` and enjoy the game!
+  - Then type ``py parques.py`` and enjoy the game!.
   
   - Follow me and stay tuned to future updates. 
 
