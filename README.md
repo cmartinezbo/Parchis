@@ -1,4 +1,4 @@
-<h2> Ultimate Tic-Tac-Toe ✏</h2>
+<h2> Ultimate Parchís ✏</h2>
 
 This is the classic game "Parchis" in command line interface, made with Python 3.9.
 
